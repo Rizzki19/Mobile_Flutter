@@ -1,2 +1,0 @@
-D:/Kuliah/Sm4/Kenali/Mobile/KenaliApp/android/app/.cxx/Debug/0536m2s3/x86/CMakeFiles/edit_cache.dir
-D:/Kuliah/Sm4/Kenali/Mobile/KenaliApp/android/app/.cxx/Debug/0536m2s3/x86/CMakeFiles/rebuild_cache.dir
