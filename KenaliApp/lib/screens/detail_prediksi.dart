@@ -51,7 +51,7 @@ class MenuBeranda extends StatelessWidget {
           _buildMenuItem(
             context,
             title: 'Prediksi 2',
-            subtitle: 'Berisi hasil prediksi kedua',
+            subtitle: 'Berisi hasil untuk prediksi kedua',
             icon: Icons.bar_chart,
             routeName: '/detail_transaksi',
           ),
